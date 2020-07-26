@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b58c518-41b1-4c4e-9c6a-0e78b72752cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_28" />
+  <component name="FavoritesManager">
+    <favorites_list name="whatspapo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dtmaKx6RIQyeMfYuZl0PJE6pvV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../camera1" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b58c518-41b1-4c4e-9c6a-0e78b72752cf" name="Default Changelist" comment="" />
+      <created>1593252825696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593252825696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1594822674193">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="447" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1594822674193" />
+    <state x="322" y="69" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1593611266864">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="322" y="69" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1593611266864" />
+    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1595767034616">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595767034616" />
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom" timestamp="1595788324443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595788324443" />
+    <state width="1306" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594559709612" />
+    <state width="1237" height="131" key="GridCell.Tab.0.center" timestamp="1595788324442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595788324442" />
+    <state width="1306" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594559709612" />
+    <state width="1237" height="131" key="GridCell.Tab.0.left" timestamp="1595788324442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595788324442" />
+    <state width="1306" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594559709612" />
+    <state width="1237" height="131" key="GridCell.Tab.0.right" timestamp="1595788324442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595788324442" />
+    <state width="1306" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594559709612" />
+    <state x="150" y="0" key="SettingsEditor" timestamp="1594842360129">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="150" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1594842360129" />
+    <state x="100" y="100" width="1080" height="480" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1594735319330">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="100" width="1080" height="480" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1594735319330" />
+    <state x="107" y="107" width="1153" height="514" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1594557911921" />
+    <state x="338" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1595323598675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="338" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1595323598675" />
+    <state x="361" y="177" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594556602750" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1594560684277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594560684277" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://C:/src/flutter/packages/flutter/lib/src/widgets/framework.dart</url>
+          <line>1311</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

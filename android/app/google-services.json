@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717827838026",
+    "firebase_url": "https://papo-ef39d.firebaseio.com",
+    "project_id": "papo-ef39d",
+    "storage_bucket": "papo-ef39d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717827838026:android:8d5a9b96c926873f6fd6b3",
+        "android_client_info": {
+          "package_name": "com.cursos.whatspapo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717827838026-cjnnupmdrh41eh3pa13r4tbp24uobrn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpSw_-MWe08qXw2CK2NZPTWt7tb56PJWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717827838026-cjnnupmdrh41eh3pa13r4tbp24uobrn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
